@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "Level Up Tuts Tutorial Page",
+  "description": "Gatsby blog starter",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Clark Newell <clark@clarknewell.tech>",
   "dependencies": {
     "eslint": "^5.5.0",
     "gatsby": "^1.9.277",
@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/WCNewell/clark-gatsby-site"
   }
 }

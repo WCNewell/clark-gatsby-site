@@ -14,6 +14,7 @@
                     frontmatter {
                         path
                         title
+                        date
                     }
                 }
             }
