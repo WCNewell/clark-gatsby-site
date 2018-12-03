@@ -1,6 +1,8 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
+import logo from '../images/OgLogoTrans.png'
+
 const Header = ({ siteTitle }) => (
   <div
     style={{
@@ -24,6 +26,7 @@ const Header = ({ siteTitle }) => (
           }}
         >
           {siteTitle}
+          <img src={logo} alt="Clark Newell Logo" />
         </Link>
       </h1>
     </div>
